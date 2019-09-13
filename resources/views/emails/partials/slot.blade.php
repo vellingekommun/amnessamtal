@@ -1,0 +1,1 @@
+<p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; margin-bottom: 15px;"><strong>{{ $slot->starts_at->format('H:i') }}</strong> {{$slot->teacher->name }} @if($slot->teacher->room)(Sal: {{$slot->teacher->room }}) @endif <a href="{{ route('delete',[$slot->getKey(), $slot->visitor->token]) }}">Avboka</a></p>

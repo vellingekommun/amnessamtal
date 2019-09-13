@@ -1,0 +1,1 @@
+<p><strong>{{ $slot->starts_at->format('H:i') }}</strong> {{$slot->teacher->name }} @if($slot->teacher->room)(Sal: {{$slot->teacher->room }}) @endif</p>
