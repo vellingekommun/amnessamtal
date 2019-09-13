@@ -3,6 +3,7 @@
 En applikation för att hantera bokningar av ämnessamtal.
 
 Version 0.9 - 2019-09-13
+
 Projektet är utvecklat i Laravel 5.7 (https://laravel.com/), VueJS 2 och Sass.
 
 Utvecklat av [On A Wednesday Afternoon](https://oawa.se) för [Vellinge Kommun](https://vellinge.se/).
@@ -23,11 +24,11 @@ För att kunna köra applikationen lokalt används Laravels egna Vagrant-box (ht
 
 ## Kontakt
 #### Vellinge Kommun
-Jimmie Wester
-Teknisk projektledare
+Jimmie Wester\
+Teknisk projektledare\
 jimmie.wester@vellinge.se
 
 #### On A Wednesday Afternoon
-Magnus Jönsson
-On A Wednesday Afternoon
+Magnus Jönsson\
+On A Wednesday Afternoon\
 magnus@oawa.se
